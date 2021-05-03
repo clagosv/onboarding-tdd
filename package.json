@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "workshop-tdd",
   "version": "1.0.0",
   "scripts": {
@@ -9,5 +10,27 @@
   "devDependencies": {
     "@babel/preset-env": "7.11.5",
     "jest": "26.6.3"
+=======
+  "name": "onboarding-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clagosv/onboarding-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clagosv/onboarding-tdd/issues"
+  },
+  "homepage": "https://github.com/clagosv/onboarding-tdd#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.0",
+    "jest": "^26.6.3"
+>>>>>>> 42189dcb54f5e459b478edd1881380ed71dd13ef
   }
 }
