@@ -1,22 +1,10 @@
 {
-<<<<<<< HEAD
-  "name": "workshop-tdd",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@babel/preset-env": "7.11.5",
-    "jest": "26.6.3"
-=======
   "name": "onboarding-tdd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -31,6 +19,5 @@
   "devDependencies": {
     "@babel/preset-env": "^7.14.0",
     "jest": "^26.6.3"
->>>>>>> 42189dcb54f5e459b478edd1881380ed71dd13ef
   }
 }
